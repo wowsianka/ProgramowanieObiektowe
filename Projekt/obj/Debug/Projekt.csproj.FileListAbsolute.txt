@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\obj\Debug\Projekt.pdb
