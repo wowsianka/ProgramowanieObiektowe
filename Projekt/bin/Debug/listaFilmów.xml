@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Filmy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>0</id>
+  <kategorie />
+  <ocenaImdb>0</ocenaImdb>
+  <rokPremiery>0001-01-01T00:00:00</rokPremiery>
+  <ID>0</ID>
+  <OcenaImdb>0</OcenaImdb>
+  <RokPremiery>0001-01-01T00:00:00</RokPremiery>
+  <filmy>
+    <Film>
+      <id>1</id>
+      <nazwa>Alfabet</nazwa>
+      <reżyser>Tarantino</reżyser>
+      <kategorie>
+        <nazwaKategorii>animowany</nazwaKategorii>
+        <nazwaKategorii>dlaDzieci</nazwaKategorii>
+        <nazwaKategorii>komedia</nazwaKategorii>
+      </kategorie>
+      <ocenaImdb>0</ocenaImdb>
+      <rokPremiery>2020-01-26T21:42:01.6661844+01:00</rokPremiery>
+      <ID>1</ID>
+      <Nazwa>Alfabet</Nazwa>
+      <Reżyser>Tarantino</Reżyser>
+      <OcenaImdb>0</OcenaImdb>
+      <RokPremiery>2020-01-26T21:42:01.6661844+01:00</RokPremiery>
+    </Film>
+    <Film>
+      <id>2</id>
+      <nazwa>Titanic i 3 muszkieterowie</nazwa>
+      <reżyser>Tarantino</reżyser>
+      <kategorie>
+        <nazwaKategorii>animowany</nazwaKategorii>
+        <nazwaKategorii>dlaDzieci</nazwaKategorii>
+      </kategorie>
+      <ocenaImdb>0</ocenaImdb>
+      <rokPremiery>2020-01-26T21:42:01.6941077+01:00</rokPremiery>
+      <ID>2</ID>
+      <Nazwa>Titanic i 3 muszkieterowie</Nazwa>
+      <Reżyser>Tarantino</Reżyser>
+      <OcenaImdb>0</OcenaImdb>
+      <RokPremiery>2020-01-26T21:42:01.6941077+01:00</RokPremiery>
+    </Film>
+    <Film>
+      <id>3</id>
+      <nazwa>Titanic</nazwa>
+      <reżyser>Sapkowski</reżyser>
+      <kategorie />
+      <ocenaImdb>0</ocenaImdb>
+      <rokPremiery>2020-01-26T21:42:01.6941077+01:00</rokPremiery>
+      <ID>3</ID>
+      <Nazwa>Titanic</Nazwa>
+      <Reżyser>Sapkowski</Reżyser>
+      <OcenaImdb>0</OcenaImdb>
+      <RokPremiery>2020-01-26T21:42:01.6941077+01:00</RokPremiery>
+    </Film>
+  </filmy>
+</Filmy>

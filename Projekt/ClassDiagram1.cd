@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt.Cennik" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAIAIAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Cennik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Film" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAgAQEAAAgAAAAAAgBAIAIAAAgAQAAIhE=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.Filmy" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAgQAAAEAAAAAAAAAIAAAIEIAAAAIACCABA=</HashCode>
+      <FileName>Filmy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.HistoriaWypożyczeń" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAACEAAAA=</HashCode>
+      <FileName>HistoriaWypożyczeń.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Kategoria" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>Kategoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Klienci" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAgAAAMAAAAAAAACIgAAAAAAAAAAAAIABA=</HashCode>
+      <FileName>Klienci.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Projekt.NAZWISKOComparator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Klienci.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Projekt.Klient" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAAAgAAAAAAAAAAAAAAAAAgAAABA=</HashCode>
+      <FileName>Klient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.KopiaFilmu" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQICAIAAAAEAAACCAAACIgAFAAEABAARgAAAEQ=</HashCode>
+      <FileName>KopiaFilmu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.KopieFilmów" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEAAAAAgAAAEAAAAAAAQAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>KopieFilmów.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Osoba" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAACkAAAAAAAAAAAAAAAAAAAAAACAABA=</HashCode>
+      <FileName>Osoba.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.Pracownicy" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAQAAAAAAAAAAAEAAAAAAAAAAAg=</HashCode>
+      <FileName>Pracownicy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Pracownik" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAABAAAAEAgAAAAAAAABAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Pracownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Program" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Wypożyczenie" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQFAAAEAAAAAAEAAAABAAAAEAAAAAAAAAEAAQABBA=</HashCode>
+      <FileName>Wypożyczenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Projekt.ISavable" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAACAAAA=</HashCode>
+      <FileName>Isavable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Projekt.Nośnik" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Nośnik.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

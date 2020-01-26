@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Projekt
 {
-    public enum Nośnik
+    interface ISavable
     {
-        DVD, BluRay, VHS
+        void ZapiszXML(string nazwa);
+        Object OdczytXML(string nazwa);
     }
 }

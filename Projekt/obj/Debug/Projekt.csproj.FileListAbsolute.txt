@@ -4,3 +4,9 @@ C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\bin\Debug\Projekt.pdb
 C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
 C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\obj\Debug\Projekt.exe
 C:\Users\user\Desktop\DZIAŁAJ BŁAGAM\C#\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\wowsi\Documents\studia\Programowanie obiektowe\Projekt\Wypożyczalnia_Filmow\ProgramowanieObiektowe\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\wowsi\Documents\studia\Programowanie obiektowe\Projekt\Wypożyczalnia_Filmow\ProgramowanieObiektowe\Projekt\bin\Debug\Projekt.exe
+C:\Users\wowsi\Documents\studia\Programowanie obiektowe\Projekt\Wypożyczalnia_Filmow\ProgramowanieObiektowe\Projekt\bin\Debug\Projekt.pdb
+C:\Users\wowsi\Documents\studia\Programowanie obiektowe\Projekt\Wypożyczalnia_Filmow\ProgramowanieObiektowe\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\wowsi\Documents\studia\Programowanie obiektowe\Projekt\Wypożyczalnia_Filmow\ProgramowanieObiektowe\Projekt\obj\Debug\Projekt.exe
+C:\Users\wowsi\Documents\studia\Programowanie obiektowe\Projekt\Wypożyczalnia_Filmow\ProgramowanieObiektowe\Projekt\obj\Debug\Projekt.pdb

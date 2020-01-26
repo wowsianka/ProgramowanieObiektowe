@@ -46,11 +46,16 @@
     <Compile Include="Cennik.cs" />
     <Compile Include="Film.cs" />
     <Compile Include="Filmy.cs" />
+    <Compile Include="HistoriaWypożyczeń.cs" />
+    <Compile Include="Isavable.cs" />
     <Compile Include="Kategoria.cs" />
+    <Compile Include="Klienci.cs" />
     <Compile Include="Klient.cs" />
     <Compile Include="KopiaFilmu.cs" />
+    <Compile Include="KopieFilmów.cs" />
     <Compile Include="Nośnik.cs" />
     <Compile Include="Osoba.cs" />
+    <Compile Include="Pracownicy.cs" />
     <Compile Include="Pracownik.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -58,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
